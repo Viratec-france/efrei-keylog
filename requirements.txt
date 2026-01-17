@@ -1,0 +1,5 @@
+pynput>=1.7.6
+pillow>=11.0.0
+pyinstaller>=6.1.0
+requests>=2.31.0
+discord.py>=2.3.2
